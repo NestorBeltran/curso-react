@@ -16,4 +16,5 @@ const DeleteBadgeModal = (props) =>{
   )
 }
 
+
 export default DeleteBadgeModal;
